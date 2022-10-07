@@ -1,0 +1,14 @@
+{
+  "name": "neogcamp-knowmequiz",
+  "version": "1.0.0",
+  "description": "quiz to check who knoe me mre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prasad vinnakota",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
